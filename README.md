@@ -5,7 +5,7 @@ Home: https://api.kde.org/frameworks/kitemmodels/html/index.html
 
 Package license: LGPL-2.1-or-later
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Network transparent access to files and data
 
