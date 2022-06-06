@@ -12,7 +12,7 @@ source:
   sha256: 4f435db4362832cf63e49896229affd07f125567931fc499751d37ac3bafb149
 
 build:
-  number: 0
+  number: 1
   skip: true  # [not linux]
   run_exports:
     - {{ pin_subpackage(name, max_pin='x.x') }}
@@ -34,7 +34,7 @@ requirements:
   host:
     - xorg-libxfixes  # [linux]
     - xorg-libxext
-    - qt
+    - qt-main
 
 test:
   commands:
