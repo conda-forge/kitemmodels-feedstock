@@ -42,9 +42,12 @@ test:
 
 about:
   home: https://api.kde.org/frameworks/{{ name }}/html/index.html
-  license: LGPL-2.1-or-later
+  license: LGPL-2.1-only
   license_family: GPL
-  license_file: COPYING.LIB
+  license_file:
+    - LICENSES/LGPL-2.0-or-later.txt
+    - LICENSES/LGPL-2.1-only.txt
+    - LICENSES/LGPL-2.1-or-later.txt
   summary: Network transparent access to files and data
   description: |
     {{ ident }} part of the KF5 framework
