@@ -3,13 +3,13 @@ About kitemmodels
 
 Home: https://api.kde.org/frameworks/kitemmodels/html/index.html
 
-Package license: LGPL-2.1-or-later
+Package license: LGPL-2.1-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kitemmodels-feedstock/blob/main/LICENSE.txt)
 
 Summary: Network transparent access to files and data
 
-Development: https://cgit.kde.org/kitemmodels.git/tree
+Development: https://invent.kde.org/frameworks/kitemmodels
 
 ItemModels part of the KF5 framework
 
