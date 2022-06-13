@@ -9,7 +9,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kitemmodels-fee
 
 Summary: Network transparent access to files and data
 
-Development: https://cgit.kde.org/kitemmodels.git/tree
+Development: https://invent.kde.org/frameworks/kitemmodels
 
 ItemModels part of the KF5 framework
 
