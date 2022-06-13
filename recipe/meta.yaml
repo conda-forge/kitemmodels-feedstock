@@ -45,13 +45,15 @@ about:
   license: LGPL-2.1-only
   license_family: GPL
   license_file:
+    - LICENSES/CC0-1.0.txt
     - LICENSES/LGPL-2.0-or-later.txt
     - LICENSES/LGPL-2.1-only.txt
     - LICENSES/LGPL-2.1-or-later.txt
+    - LICENSES/LGPL-3.0-only.txt
   summary: Network transparent access to files and data
   description: |
     {{ ident }} part of the KF5 framework
-  dev_url: https://cgit.kde.org/{{ name }}.git/tree
+  dev_url: https://invent.kde.org/frameworks/{{ name }}
 
 extra:
   recipe-maintainers:
