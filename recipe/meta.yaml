@@ -1,6 +1,6 @@
 {% set ident = "ItemModels" %}
 {% set name = "k" ~ ident|lower %}
-{% set version = "5.106.0" %}
+{% set version = "5.107.0" %}
 {% set major_minor = ".".join(version.split(".")[:2]) %}
 
 package:
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://download.kde.org/stable/frameworks/{{ major_minor }}/{{ name }}-{{ version }}.tar.xz
-  sha256: 22a78f28d83174921b6e7803c61c53079a645609418370d368d33df2a6fdb214
+  sha256: b7f5aae6a5d0605f737ab3e993f9a195ba164f6f89672013e26b1276808a11af
 
 build:
   number: 0
